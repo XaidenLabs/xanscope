@@ -289,6 +289,7 @@ export default async function Home() {
             </div>
           ))}
         </div>
-      </Card>    </div>
+      </Card>
+    </div>
   );
 }
